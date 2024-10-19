@@ -1,0 +1,22 @@
+Tokens in Python ~
+
+
+Python Keywords ~
+
+Keywords are special reserved words
+
+False   class   Finally     Is      Return
+Non     continue    For     Lambda      Try
+True    def     From    Nonlocal    While
+and     del     Global  Not     With
+as      elif    If      Or      Yield
+
+
+Python Identifiers ~
+
+Identifiers are names used for variables, function or objects
+
+Rules:
+1. No special character expect _(underscore)
+2. Identifiers are case sensitive
+3. First Letter cannot be a digit 
